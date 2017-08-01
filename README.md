@@ -1,6 +1,9 @@
 LSTM
 ====
 
+**Project currently abandoned, similar toolkit for computing on GPU in LSTMLM repo.**
+
+
 LSTM Neural Network in Python and Cython, used for language modelling
 
 Based on LSTM RNN, model proposed by Jürgen Schmidhuber
@@ -19,10 +22,8 @@ INSTALLATION:
 
 You will need:
 - python >= 2.6
-
 - cython >= 0.19
 	(Win users see: http://www.lfd.uci.edu/~gohlke/pythonlibs/#cython)
-
 - c++ compiler
 	(Win users:
 	Visual Studio or MinGW:
